@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "1640947932_2-abrakadabra-fun-p-fon-neba-dlya-igri-2.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
